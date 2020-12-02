@@ -1,1 +1,1 @@
-# Classification-Models-Logistic-KNN-Naive-Bayes-in-Python_Sakshi
+# Classification-Models-Logistic-KNN-Naive-Bayes
